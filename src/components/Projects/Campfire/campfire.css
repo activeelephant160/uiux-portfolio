@@ -1,0 +1,33 @@
+.campfire-image-container{
+    display: flex; 
+    flex-wrap: wrap; 
+    flex-direction: row; 
+    justify-content: space-between;
+    gap: 0.7rem;
+}
+
+.campfire-images{
+    width: 100%;
+}
+
+.campfire-column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 48%; 
+    gap: 1rem;
+}
+
+/* ================ MEDIA QUERIES (MEDIUM DEVICES) ==================  */ 
+ 
+@media screen and (max-width: 1024px){
+
+    .campfire-image-container{
+        justify-content: center;
+    }
+
+    .campfire-column{
+        width: 100%
+    }
+
+}

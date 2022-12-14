@@ -1,0 +1,77 @@
+.work-ex{
+    height: 100vh; 
+    width: 100vw;
+    padding-top: 4rem; 
+    padding-left: 3rem; 
+    padding-right: 3rem; 
+    padding-bottom: 4rem; 
+    overflow: hidden;
+    background: var(--color-white);
+    color: var(--color-black);
+}
+
+.work-ex-container{
+    height: 100%; 
+    position: relative; 
+}
+
+.portfolio-container {
+    /* width: 100vw; */
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: column; 
+    gap: 2rem;
+}
+
+.image-container{
+    height:100%;
+    width: 40vw;
+    display: flex;  
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.row-1{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+}
+
+.image-child{
+    text-align: left; 
+    margin-top: 0.75rem;
+    color: var(--color-black); 
+}
+
+.project-heading{
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bold;
+}
+
+.project-description{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+}
+
+/* ================ MEDIA QUERIES (MEDIUM DEVICES) ==================  */ 
+
+@media screen and (max-width: 1024px){
+
+    .image-container{
+        height:100%;
+        width: var(--container-width-md);
+    }
+
+    .row-1{
+        /* margin-top: 1.25rem; */
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .image-container{
+        margin-top: 1.5rem;
+    }
+  
+}
+  
