@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/uiux-portfolio/static/css/main.b3faa082.css",
-    "main.js": "/uiux-portfolio/static/js/main.c2026beb.js",
+    "main.css": "/uiux-portfolio/static/css/main.9fb3c104.css",
+    "main.js": "/uiux-portfolio/static/js/main.5477f4a9.js",
     "static/media/iteration1-1.gif": "/uiux-portfolio/static/media/iteration1-1.3c081b4e5c108015a582.gif",
     "static/media/final.gif": "/uiux-portfolio/static/media/final.73f49ea2db6b3a0ab6af.gif",
     "static/media/iteration3-1.gif": "/uiux-portfolio/static/media/iteration3-1.c79f2d213d083ff789d0.gif",
@@ -26,7 +26,7 @@
     "static/media/sketch3.png": "/uiux-portfolio/static/media/sketch3.0427628634e408bf34ee.png",
     "static/media/competitive.png": "/uiux-portfolio/static/media/competitive.11cddc4d5d08497c648b.png",
     "static/media/slide5.png": "/uiux-portfolio/static/media/slide5.5f48c5111d8320c9a254.png",
-    "static/media/banner.png": "/uiux-portfolio/static/media/banner.c55ce841cea3c21b7a4d.png",
+    "static/media/banner.png": "/uiux-portfolio/static/media/banner.09bab55a26302d8f3db1.png",
     "static/media/Banner.png": "/uiux-portfolio/static/media/Banner.2474af224144f22563da.png",
     "static/media/bottom.png": "/uiux-portfolio/static/media/bottom.ee10b9de444f574c7cdf.png",
     "static/media/wireframes.png": "/uiux-portfolio/static/media/wireframes.d0292676353ae7472329.png",
@@ -37,18 +37,30 @@
     "static/media/interviews.png": "/uiux-portfolio/static/media/interviews.9617dd65905bb87f94a6.png",
     "static/media/slide1.png": "/uiux-portfolio/static/media/slide1.695f8018d6c632f18743.png",
     "static/media/sketch2.png": "/uiux-portfolio/static/media/sketch2.227d24f64a97252557e1.png",
-    "static/media/me.JPG": "/uiux-portfolio/static/media/me.a4ac94a213b31e625db2.JPG",
     "static/media/slide2.png": "/uiux-portfolio/static/media/slide2.36ad886c6dc55295c0ee.png",
     "static/media/slide3.png": "/uiux-portfolio/static/media/slide3.fb59692297b547ca74e0.png",
     "static/media/paper-prototype1.png": "/uiux-portfolio/static/media/paper-prototype1.e11b37eaf0797eb06871.png",
     "static/media/paper-prototype3.jpg": "/uiux-portfolio/static/media/paper-prototype3.4338514920863d11359d.jpg",
+    "static/media/drawing.jpg": "/uiux-portfolio/static/media/drawing.87bf26246b2cd33ac038.jpg",
+    "static/media/me.jpeg": "/uiux-portfolio/static/media/me.8d4ab3d77858d81c421d.jpeg",
+    "static/media/Storyboarding-4.jpg": "/uiux-portfolio/static/media/Storyboarding-4.2a878bf9efb82282ef0c.jpg",
+    "static/media/Storyboarding-11.jpg": "/uiux-portfolio/static/media/Storyboarding-11.abf5f6f47cd91b6a1e57.jpg",
+    "static/media/Storyboarding-2.jpg": "/uiux-portfolio/static/media/Storyboarding-2.c770dc409262f42721a6.jpg",
+    "static/media/Storyboarding-1.jpg": "/uiux-portfolio/static/media/Storyboarding-1.e5c4ce8e8bb8b183e826.jpg",
+    "static/media/Storyboarding-6.jpg": "/uiux-portfolio/static/media/Storyboarding-6.bfbc509031bb0b121400.jpg",
+    "static/media/Storyboarding-8.jpg": "/uiux-portfolio/static/media/Storyboarding-8.13db1e773a07c9939565.jpg",
+    "static/media/Storyboarding-10.jpg": "/uiux-portfolio/static/media/Storyboarding-10.131f4dcf76e6cb19ab56.jpg",
+    "static/media/Storyboarding-5.jpg": "/uiux-portfolio/static/media/Storyboarding-5.5727f0b0871726d8299c.jpg",
+    "static/media/Storyboarding-7.jpg": "/uiux-portfolio/static/media/Storyboarding-7.c262257d9496e5a20d09.jpg",
+    "static/media/Storyboarding-3.jpg": "/uiux-portfolio/static/media/Storyboarding-3.f06a1a23a7be02a88363.jpg",
+    "static/media/Storyboarding-9.jpg": "/uiux-portfolio/static/media/Storyboarding-9.ddd878df307025f0ad06.jpg",
     "static/media/Logos.png": "/uiux-portfolio/static/media/Logos.b65fd0eb2cced64c187c.png",
     "index.html": "/uiux-portfolio/index.html",
-    "main.b3faa082.css.map": "/uiux-portfolio/static/css/main.b3faa082.css.map",
-    "main.c2026beb.js.map": "/uiux-portfolio/static/js/main.c2026beb.js.map"
+    "main.9fb3c104.css.map": "/uiux-portfolio/static/css/main.9fb3c104.css.map",
+    "main.5477f4a9.js.map": "/uiux-portfolio/static/js/main.5477f4a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3faa082.css",
-    "static/js/main.c2026beb.js"
+    "static/css/main.9fb3c104.css",
+    "static/js/main.5477f4a9.js"
   ]
 }
