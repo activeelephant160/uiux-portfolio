@@ -8,6 +8,7 @@ import BeauMonde from "./components/Projects/BeauMonde/BeauMonde"
 import Barsaat from "./components/Projects/Barsaat/Barsaat"
 import Campfire from "./components/Projects/Campfire/Campfire"
 import WebControl from "./components/Projects/WebControl/WebControl"
+import Personas from "./components/Projects/Personas/Personas"
 
 function App() {
 
@@ -31,6 +32,9 @@ function App() {
       break
     case "/webControl":
       component = <WebControl/>
+      break
+    case "/personas":
+      component = <Personas/>
       break
   }
 

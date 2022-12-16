@@ -32,7 +32,7 @@ function Campfire() {
         <div className="content-container">
             <div className="content">
                 <h1 className="project-title">Y Combinator: Campfire</h1>
-                <h2 className="subtitle">Iterative Design Assignment for Campfire, a Y Combinator start-up</h2>
+                <h2 className="subtitle">Iterative Design Assignment for Campfire, a Y Combinator start-up (Iterative Redesign)</h2>
                 <div className="role">
                     <Card sx={{backgroundColor: 'var(--color-primary)', 
                     color: 'var(--color-white)'}}
@@ -51,9 +51,9 @@ function Campfire() {
                     color: 'var(--color-white)'}}
                     className={"role-items"}>
                         <h4>Team</h4>
-                        <h5 className="role-content">Aanchal Sheth</h5>
-                        <h5 className="role-content">Suyash Kothari</h5>
-                        <h5 className="role-content">Vandana Ramesh</h5>
+                        <h5 className="role-content">Cuddly Cat</h5>
+                        <h5 className="role-content">Loving Llama</h5>
+                        <h5 className="role-content">Loving Llama 2</h5>
                     </Card>
                     <Card sx={{backgroundColor: 'var(--color-primary)', 
                     color: 'var(--color-white)'}}

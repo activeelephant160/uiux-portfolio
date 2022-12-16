@@ -1,0 +1,25 @@
+.story-container{
+    margin-top:1.5rem;
+    display: flex; 
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    gap: 2rem;
+}
+
+.story-row{
+    display: flex; 
+    align-items: flex-start;
+    flex-direction: row;
+    gap: 1.5rem;
+}
+
+.story-image{
+    width: 100%;
+}
+
+.story-description{
+    width: 45%;
+    display: flex; 
+    flex-direction: column;
+}

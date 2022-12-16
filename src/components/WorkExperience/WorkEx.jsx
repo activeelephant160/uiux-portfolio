@@ -4,6 +4,7 @@ import BeauMondeBanner from '../../assets/BeauMonde/Banner.png';
 import BarsaatBanner from '../../assets/Barsaat/PortfolioImages/banner.png';
 import CampfireBanner from '../../assets/Campfire/banner.png' 
 import WebControlBanner from '../../assets/WebControl/banner.png'
+import PersonasBanner from "../../assets/Personas/banner.png"
 
 const WorkEx = () => {
   return(
@@ -13,7 +14,7 @@ const WorkEx = () => {
             <div className="image-container">
               <a href="/beaumonde"><img src={BeauMondeBanner} alt="BeauMonde Towers Project Banner"></img>
               <h2 className="image-child project-heading">With Neighbors Like Family...</h2>
-              <h4 className="image-child project-description">Redesigning BeauMonde Towers’ Website</h4>
+              <h4 className="image-child project-description">Redesigning BeauMonde Towers’ Website (Responsive Redesign Assignment)</h4>
               </a>
             </div>
             <div className="image-container">
@@ -34,7 +35,15 @@ const WorkEx = () => {
               <h2 className="image-child project-heading">Web Control of Real Time Systems</h2>
               <h4 className="image-child project-description">Creating a Web application that facilitates two-way communication with Raspberry Pis on Mako Servers</h4></a>
             </div>
-          </div>
+            </div>
+            <div className="row-1">
+            <div className="image-container">
+            <a href="/personas"><img src={PersonasBanner} alt="Campfire Banner"></img>
+              <h2 className="image-child project-heading">A Nespresso Love Story</h2>
+              <h4 className="image-child project-description">Personas & Storyboarding Assigment</h4></a>
+            </div>
+            </div>
+          
         </div>
       </section>
   )   

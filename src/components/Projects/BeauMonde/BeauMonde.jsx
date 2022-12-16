@@ -19,7 +19,7 @@ function BeauMonde() {
         <div className="content-container">
             <div className="content">
                 <h1 className="project-title">With Neighbors like Family...</h1>
-                <h2 className="subtitle">Redesigning BeauMonde Towers’ Website</h2>
+                <h2 className="subtitle">Redesigning BeauMonde Towers’ Website (Responsive Redesign)</h2>
                 <div className="role">
                     <Card sx={{backgroundColor: 'var(--color-primary)', 
                     color: 'var(--color-white)'}}
