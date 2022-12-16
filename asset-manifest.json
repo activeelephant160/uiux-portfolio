@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/uiux-portfolio/static/css/main.9fb3c104.css",
-    "main.js": "/uiux-portfolio/static/js/main.bb6ab37a.js",
+    "main.js": "/uiux-portfolio/static/js/main.94559404.js",
     "static/media/iteration1-1.gif": "/uiux-portfolio/static/media/iteration1-1.3c081b4e5c108015a582.gif",
     "static/media/final.gif": "/uiux-portfolio/static/media/final.73f49ea2db6b3a0ab6af.gif",
     "static/media/iteration3-1.gif": "/uiux-portfolio/static/media/iteration3-1.c79f2d213d083ff789d0.gif",
@@ -57,10 +57,10 @@
     "static/media/Logos.png": "/uiux-portfolio/static/media/Logos.b65fd0eb2cced64c187c.png",
     "index.html": "/uiux-portfolio/index.html",
     "main.9fb3c104.css.map": "/uiux-portfolio/static/css/main.9fb3c104.css.map",
-    "main.bb6ab37a.js.map": "/uiux-portfolio/static/js/main.bb6ab37a.js.map"
+    "main.94559404.js.map": "/uiux-portfolio/static/js/main.94559404.js.map"
   },
   "entrypoints": [
     "static/css/main.9fb3c104.css",
-    "static/js/main.bb6ab37a.js"
+    "static/js/main.94559404.js"
   ]
 }
