@@ -56,9 +56,9 @@ function Barsaat() {
                     </Card>
                 </div>
                 <h2 className="section-header">Overview</h2>
-                <h5 className="body-text">Since the inception of South Asian-Western fusion A Capella with Penn Masala at the University of Penn Masala, South Asian A Capella groups have become a university trend to stay. At Brown, one of my friends is a part of a South Asian fusion A Capella group - Barsaat. Growing up in India, they were surrounded by people from their culture and ethnicity. Moving to Brown was a welcome change, yet they missed a piece of home. In a foreign place, Barsaat provided a home away from home with like-minded people who shared their love for music. It has been a massive part of their college experience, and as the years have gone by, Barsaat has only become bigger and better.
+                <h5 className="body-text">Since the inception of South Asian-Western fusion A Capella with Penn Masala at the University of Pennsylvania, South Asian A Capella groups have become a university trend to stay. At Brown, one of my friends is a part of a South Asian fusion A Capella group - Barsaat. Growing up in India, they were surrounded by people from their culture and ethnicity. Moving to Brown was a welcome change, yet they missed a piece of home. In a foreign place, Barsaat provided a home away from home with like-minded people who shared their love for music. It has been a massive part of their college experience, and as the years have gone by, Barsaat has only become bigger and better.
 
-                Recently, they hit a milestone and started performing at places outside Brown - local restaurants and Wellesley college, to name a few. Post our performances, they were often told how hard it was to find information about the group. The hosts could only see Barsaat through Instagram. As a group gaining popularity, they figured it was high time they created their own website where users can gain information about the group more efficiently!</h5>
+                Recently, they hit a milestone and started performing at places outside Brown - local restaurants and Wellesley college, to name a few. Post their performances, they were often told how hard it was to find information about the group. The hosts could only see Barsaat through Instagram. As a group gaining popularity, they figured it was high time they created their own website where users can gain information about the group more efficiently!</h5>
                 
                 <h2 className="section-header">Problems</h2>
                 <div className="problem">
@@ -83,7 +83,7 @@ function Barsaat() {
                 </div>
 
                 <h3 className="section-sub-header">Challenge</h3>
-                <h5 className="body-text">Barsaat does not have a website that can effectively inform potential organizations the group could perform for outside Brown. As a result, we limit our outreach and, subsequently, our growth in the New England area.</h5>
+                <h5 className="body-text">Barsaat does not have a website that can effectively inform potential organizations the group could perform for outside Brown. As a result, they limit their outreach and, subsequently, their growth in the New England area.</h5>
 
                 <h3 className="section-sub-header">Objective</h3>
                 <h5 className="body-text">How can I create a seamless process for users to gain information and contact Barsaat's executive board about the group's previous performances, upcoming events, and other news for better insight before hiring our group?</h5>
@@ -175,7 +175,7 @@ function Barsaat() {
                 
                 <div className="prototype-holder">
                     <h5>Check out the Final Prototype here!</h5>
-                    <a href="https://www.figma.com/proto/UyBISQTWQbDCie5vdT3kI1/Barsaat-Website?node-id=374%3A1114&page-id=374%3A1113&scaling=scale-down&starting-point-node-id=374%3A1114&viewport=328%2C548%2C0.15"><button className="btn">Live High-Fi Prototype</button></a>
+                    <a href="https://www.figma.com/proto/UyBISQTWQbDCie5vdT3kI1/Barsaat-Website?page-id=452%3A1353&node-id=452%3A1354&viewport=412%2C262%2C0.08&scaling=scale-down&starting-point-node-id=452%3A1354"><button className="btn">Live High-Fi Prototype</button></a>
                 </div>
 
                 <h2 className="section-header">Process</h2>

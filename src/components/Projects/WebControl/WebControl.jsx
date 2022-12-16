@@ -31,7 +31,7 @@ function WebControl() {
                     color: 'var(--color-white)'}}
                     className={"role-items"}>
                         <h4>Team</h4>
-                        <h5 className="role-content">Developers: Llama, Jackal, Koala</h5>
+                        <h5 className="role-content">Developers: Bear, Jackal, Koala</h5>
                         <h5 className="role-content">UX/UI Designer: Peacock</h5>
                     </Card>
                     <Card sx={{backgroundColor: 'var(--color-primary)', 
